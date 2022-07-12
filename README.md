@@ -1,13 +1,3 @@
-# Webpack Starter
+# Pizza world proyect
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
-
-### Notas:
-
-Recuerden reconstruir los modulos de node 
-
-```npm install```
-
-Y para construir del build, recuerden:
-
-```npm run build```
+Proyect built on HTML5, CSS and JavaScript. It's principal object is to show habilities with css, by building a whole website.
